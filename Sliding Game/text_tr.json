@@ -1,0 +1,13 @@
+{
+    "items":
+    [
+        {
+            "key": "THIS_IS_MY_FIRST_KEY",
+            "value": "Bu Turkce icin test"  
+        },
+        {
+            "key": "THIS_IS_MY_FIRST_KEY",
+            "value": "Bu da Turkce icin ikinci test"  
+        }
+    ]
+}

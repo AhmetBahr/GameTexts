@@ -1,0 +1,13 @@
+{
+    "items":
+    [
+        {
+            "key": "THIS_IS_MY_FIRST_KEY",
+            "value": "This is a test in english"  
+        },
+        {
+            "key": "THIS_IS_MY_FIRST_KEY",
+            "value": "This is a second test in english"  
+        }
+    ]
+}
