@@ -1,13 +1,12 @@
 {
-    "items":
-    [
-        {
-            "key": "THIS_IS_MY_FIRST_KEY",
-            "value": "Bu Turkce icin test"  
-        },
-        {
-            "key": "THIS_IS_MY_FIRST_KEY",
-            "value": "Bu da Turkce icin ikinci test"  
-        }
-    ]
+  "items" :[
+    {
+      "key":"THIS_IS_MY_FIRT_KEY",
+      "value":"Bu ilk deneme Turkce icin"
+    },
+    {
+      "key":"THIS_IS_MY_SECOND_KEY",
+      "value":"Bu ikinci deneme Turkce icin"
+    }
+  ]
 }
