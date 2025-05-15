@@ -1,0 +1,12 @@
+{
+  "items" :[
+    {
+      "key":"THIS_IS_MY_FIRT_KEY",
+      "value":"C'est la première tentative pour le Français"
+    },
+    {
+      "key":"THIS_IS_MY_SECOND_KEY",
+      "value":"C'est la deuxième tentative pour le Français"
+    }
+  ]
+}
