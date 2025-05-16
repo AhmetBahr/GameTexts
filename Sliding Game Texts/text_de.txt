@@ -1,57 +1,17 @@
 {
-  "items“ :[
-    {
-      "Schlüssel": '1',
-      "value": "Levels"
-    },
-    {
-      "Schlüssel": '2',
-      "value": "Einstellungen"
-    },
-    {
-      "Schlüssel": '3',
-      "value": "Beenden"
-    },
-    {
-      "Schlüssel": '4',
-      "value": "Kredit"
-    },
-    {
-      "Schlüssel": '5',
-      "value": "Lautstärkeregelung"
-    },
-    {
-      "Schlüssel": '6',
-      "value": "Hauptvolumen"
-    },
-    {
-      "Schlüssel": '7',
-      "value": "Musiklautstärke"
-    },
-    {
-      "Schlüssel": '8',
-      "value": "SFX Volume"
-    },
-    {
-      "Schlüssel": '9',
-      "value": "Basic"
-    },
-    {
-      "Schlüssel": '10',
-      "value": "Audio"
-    },
-    {
-      "Schlüssel": '11',
-      "value": "Speichern"
-    },
-    {
-      "Schlüssel": '12',
-      "value": "Zurück"
-    },
-    {
-      "Schlüssel": '13',
-      "value": "Zurücksetzen"
-    }
+  "items": [
+    { "key": "1", "value": "Level" },
+    { "key": "2", "value": "Einstellungen" },
+    { "key": "3", "value": "Beenden" },
+    { "key": "4", "value": "Credits" },
+    { "key": "5", "value": "Tonsteuerung" },
+    { "key": "6", "value": "Gesamtlautstärke" },
+    { "key": "7", "value": "Musiklautstärke" },
+    { "key": "8", "value": "Effektlautstärke" },
+    { "key": "9", "value": "Grundlegend" },
+    { "key": "10", "value": "Ton" },
+    { "key": "11", "value": "Speichern" },
+    { "key": "12", "value": "Zurück" },
+    { "key": "13", "value": "Zurücksetzen" }
   ]
 }
-

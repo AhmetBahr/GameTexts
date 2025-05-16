@@ -1,12 +1,17 @@
 {
-  "items" :[
-    {
-      "key":"THIS_IS_MY_FIRT_KEY",
-      "value":"C'est la première tentative pour le Français"
-    },
-    {
-      "key":"THIS_IS_MY_SECOND_KEY",
-      "value":"C'est la deuxième tentative pour le Français"
-    }
+  "items": [
+    { "key": "1", "value": "Niveaux" },
+    { "key": "2", "value": "Paramètres" },
+    { "key": "3", "value": "Quitter" },
+    { "key": "4", "value": "Crédits" },
+    { "key": "5", "value": "Contrôle du son" },
+    { "key": "6", "value": "Volume principal" },
+    { "key": "7", "value": "Volume de la musique" },
+    { "key": "8", "value": "Volume des effets sonores" },
+    { "key": "9", "value": "De base" },
+    { "key": "10", "value": "Son" },
+    { "key": "11", "value": "Sauvegarder" },
+    { "key": "12", "value": "Retour" },
+    { "key": "13", "value": "Réinitialiser" }
   ]
 }

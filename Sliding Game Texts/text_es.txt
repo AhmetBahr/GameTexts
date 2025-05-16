@@ -1,12 +1,17 @@
 {
-  "items" :[
-    {
-      "key":"THIS_IS_MY_FIRT_KEY",
-      "value":"Este es el primer intento para el español"
-    },
-    {
-      "key":"THIS_IS_MY_SECOND_KEY",
-      "value":"Este es el segundo intento para el español."
-    }
+  "items": [
+    { "key": "1", "value": "Niveles" },
+    { "key": "2", "value": "Configuración" },
+    { "key": "3", "value": "Salir" },
+    { "key": "4", "value": "Créditos" },
+    { "key": "5", "value": "Control de sonido" },
+    { "key": "6", "value": "Volumen general" },
+    { "key": "7", "value": "Volumen de música" },
+    { "key": "8", "value": "Volumen de efectos de sonido" },
+    { "key": "9", "value": "Básico" },
+    { "key": "10", "value": "Sonido" },
+    { "key": "11", "value": "Guardar" },
+    { "key": "12", "value": "Atrás" },
+    { "key": "13", "value": "Restablecer" }
   ]
 }
