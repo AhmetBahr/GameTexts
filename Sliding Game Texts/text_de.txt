@@ -1,0 +1,57 @@
+{
+  "items“ :[
+    {
+      "Schlüssel": '1',
+      "value": "Levels"
+    },
+    {
+      "Schlüssel": '2',
+      "value": "Einstellungen"
+    },
+    {
+      "Schlüssel": '3',
+      "value": "Beenden"
+    },
+    {
+      "Schlüssel": '4',
+      "value": "Kredit"
+    },
+    {
+      "Schlüssel": '5',
+      "value": "Lautstärkeregelung"
+    },
+    {
+      "Schlüssel": '6',
+      "value": "Hauptvolumen"
+    },
+    {
+      "Schlüssel": '7',
+      "value": "Musiklautstärke"
+    },
+    {
+      "Schlüssel": '8',
+      "value": "SFX Volume"
+    },
+    {
+      "Schlüssel": '9',
+      "value": "Basic"
+    },
+    {
+      "Schlüssel": '10',
+      "value": "Audio"
+    },
+    {
+      "Schlüssel": '11',
+      "value": "Speichern"
+    },
+    {
+      "Schlüssel": '12',
+      "value": "Zurück"
+    },
+    {
+      "Schlüssel": '13',
+      "value": "Zurücksetzen"
+    }
+  ]
+}
+

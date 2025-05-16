@@ -1,0 +1,58 @@
+{
+  “items” :[
+    {
+      “key": ‘1’,
+      “value": ”Levels”
+    },
+    {
+      “key": ‘2’,
+      “value": ”Settings”
+    },
+    {
+      “key": ‘3’,
+      “value": ”Quit”
+    },
+    {
+      “key": ‘4’,
+      “value": ”Credit”
+    },
+    {
+      “key": ‘5’,
+      “value": ”Volume Control”
+    },
+    {
+      “key": ‘6’,
+      “value": ”Master volume”
+    },
+    {
+      “key": ‘7’,
+      “value": ”Music Volume”
+    },
+    {
+      “key": ‘8’,
+      “value": ”SFX Volume”
+    },
+    {
+      “key": ‘9’,
+      “value": ”Basic”
+    },
+    {
+      “key": ‘10’,
+      “value": ”Audio”
+    },
+    {
+      “key": ‘11’,
+      “value": ”Save”
+    },
+    {
+      “key": ‘12’,
+      “value": ”Back”
+    },
+    {
+      “key": ‘13’,
+      “value": ”Reset”
+    }
+  ]
+}
+
+

@@ -1,0 +1,58 @@
+{
+  "items" :[
+    {
+      "key":"1",
+      "value":"Bölümler"
+    },
+    {
+      "key":"2",
+      "value":"Ayarlar"
+    },
+    {
+      "key":"3",
+      "value":"Çık"
+    },
+    {
+      "key":"4",
+      "value":"Kredi̇"
+    },
+    {
+      "key":"5",
+      "value":"Ses Kontrolü"
+    },
+    {
+      "key":"6",
+      "value":"Ana ses seviyesi"
+    },
+    {
+      "key":"7",
+      "value":"Müzik seviyesi"
+    },
+    {
+      "key":"8",
+      "value":"Ses Efekti seviyesi"
+    },
+    {
+      "key":"9",
+      "value":"Temel"
+    },
+    {
+      "key":"10",
+      "value":"Ses"
+    },
+    {
+      "key":"11",
+      "value":"Kaydet"
+    },
+    {
+      "key":"12",
+      "value":"Geri"
+    },
+    {
+      "key":"13",
+      "value":"Sıfırla"
+    }
+  ]
+}
+
+
