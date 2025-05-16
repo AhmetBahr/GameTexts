@@ -12,7 +12,17 @@
     {"key":"10", "value":"Ses"},
     {"key":"11", "value":"Kaydet"},
     {"key":"12", "value":"Geri"},
-    {"key":"13", "value":"Sıfırla"}
+    {"key":"13", "value":"Sıfırla"},
+    {"key":"14", "value":"Oyunun dilini değiştirmek için sahneyi tekrar yüklemek lazım. dili değiştirmek istiyor musun?"},
+    {"key":"15", "value":"Oyundaki bütün ilerlemeyi silmek istiyor musun?"},
+    {"key":"16", "value":"Evet"},
+    {"key":"17", "value":"Hayır"},
+    {"key":"18", "value":"Bütün ilerlemeyi sil"},
+    {"key":"19", "value":"Menü"},
+    {"key":"20", "value":"Kaybettin"},
+    {"key":"21", "value":"Kazandın"},
+    {"key":"22", "value":"Tekrarla"},
+    {"key":"23", "value":"Sonraki"}
   ]
 }
 
