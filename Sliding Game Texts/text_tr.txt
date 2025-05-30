@@ -39,6 +39,7 @@
     { "key": "37", "value": "kamera hareketini fare için durdur" },
     { "key": "38", "value": "sağ kamera hareket" },
     { "key": "39", "value": "sol kamera hareket" },
-    { "key": "40", "value": "Hareket" }
+    { "key": "40", "value": "Hareket" },
+    { "key": "41", "value": "Dil" }
   ]
 }

@@ -39,6 +39,7 @@
     { "key": "37", "value": "stop camera with mouse" },
     { "key": "38", "value": "camera right" },
     { "key": "39", "value": "camera left" },
-    { "key": "40", "value": "Movement" }
+    { "key": "40", "value": "Movement" },
+    { "key": "41", "value": "Language" }
   ]
 }
