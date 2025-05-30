@@ -38,6 +38,7 @@
     { "key": "36", "value": "mover a la derecha" },
     { "key": "37", "value": "detener cámara con ratón" },
     { "key": "38", "value": "cámara derecha" },
-    { "key": "39", "value": "cámara izquierda" }
+    { "key": "39", "value": "cámara izquierda" },
+    { "key": "40", "value": "el movimiento" }
   ]
 }

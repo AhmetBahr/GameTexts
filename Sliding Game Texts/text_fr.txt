@@ -38,6 +38,7 @@
     { "key": "36", "value": "aller à droite" },
     { "key": "37", "value": "arrêter la caméra avec la souris" },
     { "key": "38", "value": "caméra droite" },
-    { "key": "39", "value": "caméra gauche" }
+    { "key": "39", "value": "caméra gauche" },
+    { "key": "40", "value": "le mouvement" }
   ]
 }

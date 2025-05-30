@@ -34,10 +34,11 @@
     { "key": "32", "value": "Nasıl Oynanır" },
     { "key": "33", "value": "ileri hareket" },
     { "key": "34", "value": "sola hareket" },
-    { "key": "35", "value": "geriye hareket" },
+    { "key": "35", "value": "geri hareket" },
     { "key": "36", "value": "sağ hareket" },
     { "key": "37", "value": "kamera hareketini fare için durdur" },
     { "key": "38", "value": "sağ kamera hareket" },
-    { "key": "39", "value": "sol kamera hareket" }
+    { "key": "39", "value": "sol kamera hareket" },
+    { "key": "40", "value": "Hareket" }
   ]
 }

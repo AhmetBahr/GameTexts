@@ -38,6 +38,7 @@
     { "key": "36", "value": "nach rechts bewegen" },
     { "key": "37", "value": "Kamerabewegung mit Maus stoppen" },
     { "key": "38", "value": "Kamera nach rechts" },
-    { "key": "39", "value": "Kamera nach links" }
+    { "key": "39", "value": "Kamera nach links" },
+    { "key": "40", "value": "die Bewegung" }
   ]
 }
