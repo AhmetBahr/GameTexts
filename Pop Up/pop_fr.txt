@@ -1,0 +1,16 @@
+{
+  "items": [
+    { "key": "1", "value": "Paramètres" },
+    { "key": "2", "value": "Muet" },
+    { "key": "3", "value": "Thème sombre" },
+    { "key": "4", "value": "Jeu difficile" },
+    { "key": "5", "value": "Supprimer les données" },
+    { "key": "6", "value": "Langue" },
+    { "key": "7", "value": "Meilleur score" },
+    { "key": "8", "value": "Rejouer" },
+    { "key": "9", "value": "Regarder la pub" },
+    { "key": "10", "value": "Revivre" },
+    { "key": "11", "value": "Score" },
+    { "key": "12", "value": "Nouveau meilleur score" }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "items": [
+    { "key": "1", "value": "Einstellungen" },
+    { "key": "2", "value": "Ton aus" },
+    { "key": "3", "value": "Dunkles Thema" },
+    { "key": "4", "value": "Schweres Spiel" },
+    { "key": "5", "value": "Daten löschen" },
+    { "key": "6", "value": "Sprache" },
+    { "key": "7", "value": "Highscore" },
+    { "key": "8", "value": "Nochmal spielen" },
+    { "key": "9", "value": "Werbung ansehen" },
+    { "key": "10", "value": "Wiederbeleben" },
+    { "key": "11", "value": "Punktzahl" },
+    { "key": "12", "value": "Neuer Highscore" }
+  ]
+}

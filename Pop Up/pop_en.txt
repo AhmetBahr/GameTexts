@@ -1,0 +1,16 @@
+{
+  "items": [
+    { "key": "1", "value": "Settings" },
+    { "key": "2", "value": "Close sound" },
+    { "key": "3", "value": "Dark theme" },
+    { "key": "4", "value": "Hardcore game" },
+    { "key": "5", "value": "Delete data" },
+    { "key": "6", "value": "Language" },
+    { "key": "7", "value": "High Score" },
+    { "key": "8", "value": "Play Again" },
+    { "key": "9", "value": "Watch Ad" },
+    { "key": "10", "value": "Revive" },
+    { "key": "11", "value": "Score" },
+    { "key": "12", "value": "New High Score" }
+  ]
+}

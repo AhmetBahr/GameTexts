@@ -1,0 +1,16 @@
+{
+  "items": [
+    { "key": "1", "value": "Ajustes" },
+    { "key": "2", "value": "Silencio" },
+    { "key": "3", "value": "Tema oscuro" },
+    { "key": "4", "value": "Juego difícil" },
+    { "key": "5", "value": "Borrar datos" },
+    { "key": "6", "value": "Idioma" },
+    { "key": "7", "value": "Puntuación máxima" },
+    { "key": "8", "value": "Jugar de nuevo" },
+    { "key": "9", "value": "Ver anuncio" },
+    { "key": "10", "value": "Revivir" },
+    { "key": "11", "value": "Puntuación" },
+    { "key": "12", "value": "Nueva puntuación máxima" }
+  ]
+}
