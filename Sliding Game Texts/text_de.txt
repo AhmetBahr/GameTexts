@@ -44,7 +44,9 @@
     { "key": "42", "value": "Bildschirmgröße" },
     { "key": "43", "value": "Bildschirm" },
     { "key": "44", "value": "Bildschirmeinstellungen" },
-{ "key": "45", "value": "Vollbild" }
+{ "key": "45", "value": "Vollbild" },
+{ "key": "46", "value": "Helligkeit" }
+
 
   ]
 }

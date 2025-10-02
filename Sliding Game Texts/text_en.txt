@@ -44,7 +44,9 @@
     { "key": "42", "value": "Screen Size" },
     { "key": "43", "value": "Screen" },
     { "key": "44", "value": "Screen Settings" },
-{ "key": "45", "value": "Full Screen" }
+{ "key": "45", "value": "Full Screen" },
+{ "key": "46", "value": "Brightness" }
+
 
   ]
 }

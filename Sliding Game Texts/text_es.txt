@@ -44,7 +44,9 @@
     { "key": "42", "value": "Tamaño de pantalla" },
     { "key": "43", "value": "Pantalla" },
     { "key": "44", "value": "Ajustes de pantalla" },
-{ "key": "45", "value": "Pantalla completa" }
+{ "key": "45", "value": "Pantalla completa" },
+{ "key": "46", "value": "Brillo" }
+
 
 
   ]

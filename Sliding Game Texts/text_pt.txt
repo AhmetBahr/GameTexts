@@ -44,7 +44,9 @@
     { "key": "42", "value": "Tamanho da tela" },
     { "key": "43", "value": "Tela" },
     { "key": "44", "value": "Configurações da tela" },
-{ "key": "45", "value": "Tela cheia" }
+{ "key": "45", "value": "Tela cheia" },
+{ "key": "46", "value": "Brilho" }
+
 
   ]
 }
