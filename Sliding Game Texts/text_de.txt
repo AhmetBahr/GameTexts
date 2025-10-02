@@ -43,6 +43,8 @@
     { "key": "41", "value": "Sprache" },
     { "key": "42", "value": "Bildschirmgröße" },
     { "key": "43", "value": "Bildschirm" },
-    { "key": "44", "value": "Bildschirmeinstellungen" }
+    { "key": "44", "value": "Bildschirmeinstellungen" },
+{ "key": "45", "value": "Vollbild" }
+
   ]
 }

@@ -43,6 +43,8 @@
     { "key": "41", "value": "Dil" },
     { "key": "42", "value": "Ekran ölçüsü" },
     { "key": "43", "value": "Ekran" },
-    { "key": "44", "value": "Ekran parametrləri" }
+    { "key": "44", "value": "Ekran parametrləri" },
+{ "key": "45", "value": "Tam ekran" }
+
   ]
 }

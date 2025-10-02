@@ -43,6 +43,7 @@
     { "key": "41", "value": "Langue" },
     { "key": "42", "value": "Taille de l’écran" },
     { "key": "43", "value": "Écran" },
-    { "key": "44", "value": "Paramètres de l’écran" }
+    { "key": "44", "value": "Paramètres de l’écran" },
+{ "key": "45", "value": "Plein écran" }
   ]
 }

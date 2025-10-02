@@ -43,6 +43,8 @@
     { "key": "41", "value": "Idioma" },
     { "key": "42", "value": "Tamanho da tela" },
     { "key": "43", "value": "Tela" },
-    { "key": "44", "value": "Configurações da tela" }
+    { "key": "44", "value": "Configurações da tela" },
+{ "key": "45", "value": "Tela cheia" }
+
   ]
 }
