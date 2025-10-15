@@ -45,6 +45,8 @@
     { "key": "43", "value": "Экран" },
     { "key": "44", "value": "Настройки экрана" },
     { "key": "45", "value": "Полный экран" },
-    { "key": "46", "value": "Яркость" }
+    { "key": "46", "value": "Яркость" },
+{ "key": "47", "value": "VAKVAK STUDIOS ПРЕДСТАВЛЯЕТ\nSLIDING KNIGHT\n────────────────────────────────\nРАЗРАБОТЧИК\nVakvak Studios:\nДизайн, Программирование и Уровни:    Ahmet Bahar\n────────────────────────────────\n3D МОДЕЛИРОВАНИЕ\nОсновное окружение и объекты: \nMedieval Hexagon Pack - KayKit\nDungeon Remastered Pack - KayKit\nПерсонажи и враги: \nCharacter Pack : Adventurers - KayKit\nKayKit - Character Pack : Skeletons  - KayKit\n────────────────────────────────\nЗВУК И МУЗЫКА\nМузыка: \nJust Lute,  Medieval Lute Music - kaazoom\nFall of the Roman Empire - White_Records\nMedieval city  -  DeusLower\nSFX:\nЭффекты кустов:\nTumbleweed_Impact_001 -  duckduckpony\nhit-bush01 - JanKoehl\n \n  Атака игрока SFX:\nSwordCombat_11 - Sword Combat Sound Effects, Hove Audio\nSwordCombat_17 - Sword Combat Sound Effects, Hove Audio\nДвижение игрока SFX:\nSwordCombat_07 - Sword Combat Sound Effects, Hove Audio\nSwordCombat_26 - Sword Combat Sound Effects, Hove Audio\nСмерть игрока SFX:\nSwordCombat_01 - Sword Combat Sound Effects, Hove Audio\nСмерть скелета SFX:\nSkeleton bones - cribbler\nШипы SFX:\nSwordCombat_03 -Sword Combat Sound Effects, Hove Audio\nSwordCombat_
+
   ]
 }
